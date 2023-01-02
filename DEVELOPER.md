@@ -28,11 +28,6 @@ Before forking, make sure the following is installed:
     * Open a terminal, and type: `git clone git@github.com:WebTools-NG/manual.git`
   * Windows
 
-ANDY: Just for you...In that drectory, create one named Tommy, and then use that
-
-    * Right-click on the directory, and select "Git Bash here"
-    * Type `git clone git@github.com:WebTools-NG/manual.git`
-
 ## Open Repo in Visual Studio Code
 
 * You can now open the folder in your Repo named manual
